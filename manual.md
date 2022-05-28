@@ -1,4 +1,4 @@
-MAN IN THE MIDDLE MANUAL
+#### MAN IN THE MIDDLE MANUAL
 
 Use Ettercap to Intercept Passwords with ARP Spoofing
 
